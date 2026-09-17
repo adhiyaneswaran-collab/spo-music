@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SPO Music</string>
+    <string name="title_activity_main">SPO Music</string>
+    <string name="package_name">com.spo.music</string>
+    <string name="custom_url_scheme">com.spo.music</string>
+</resources>
